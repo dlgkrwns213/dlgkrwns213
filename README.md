@@ -5,6 +5,7 @@
 <a href="https://github.com/yebinnnnn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlgkrwns213&layout=compact&theme=dracula&hide_border=true" /></a>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehk_py)](https://solved.ac/leehk_py)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehk_java)](https://solved.ac/leehk_java)
 
 <h3 align="center">🛠 Stacks 🛠</h3>
 
