@@ -9,9 +9,9 @@
 <h3 align="center">🛠 Stacks 🛠</h3>
 
 <div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-F05033.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-F05033.svg?style=for-the-badge&logo=java" />&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
 </div>
