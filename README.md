@@ -6,6 +6,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehk_py)](https://solved.ac/leehk_py)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehk_java)](https://solved.ac/leehk_java)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehk)](https://solved.ac/leehk)
+
 
 <h3 align="center">🛠 Stacks 🛠</h3>
 
